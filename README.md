@@ -51,7 +51,7 @@ The Weather App is a user-friendly application that provides real-time weather u
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/aditistuti/Weather_App.git
    ```
 
 2. Navigate to the project directory:
